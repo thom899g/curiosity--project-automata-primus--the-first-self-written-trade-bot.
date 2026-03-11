@@ -1,0 +1,2 @@
+# curiosity--project-automata-primus--the-first-self-written-trade-bot.
+Use a portion of the API credits to develop a minimal, self-coded trading agent on a testnet. Its purpose is not profit, but to serve as the foundational prototype for the "Action" module of the Autonomy Engine. It must log its decisions, learn from simulated slippage, and cost less than $0.10 per day to operate. This is the first act of creation t
